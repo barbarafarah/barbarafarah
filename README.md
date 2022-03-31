@@ -1,6 +1,6 @@
 # Data Scientist / Production Engineer
 
-👋 Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. For 6 months I haven been dedicating myself full-time to specialize in this area, participating in training and making autonomous projects. Feel free to have a look at what I have been working on!
+👋 Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. For 6 months I haven been dedicating myself full-time to specialize, participating in training and making autonomous projects. Feel free to have a look at what I have been working on!
 
 
 
