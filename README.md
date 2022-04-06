@@ -1,10 +1,10 @@
 # Data Scientist / Production Engineer
 
-👋 Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. For 6 months I haven been dedicating myself full-time to specialize, participating in training and making autonomous projects. Feel free to have a look at what I have been working on!
+👋  Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. For 6 months I haven been dedicating myself full-time to specialize, which my graduation in engineering helped me a lot providing me with a strong mathematical and statistical background. Feel free to have a look at what I have been working on!
 
 
 
-:chart_with_upwards_trend: I am currently learning and improving on machine learning models such as linear regression, extra trees and random forest.
+:chart_with_upwards_trend: Currently, I am builiding my portfolio by creating machine learning models such as linear regression, extra trees and random forest.
  
  
  
