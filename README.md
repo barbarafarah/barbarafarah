@@ -1,8 +1,7 @@
 # Data Scientist / Production Engineer
 
-👋  Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. For 6 months I haven been dedicating myself full-time to specialize, which my graduation in engineering helped me a lot providing me with a strong mathematical and statistical background. Feel free to have a look at what I have been working on!
-
-
+👋  Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. 
+:necktie: I am currently working in Seazone as Data Analyst. Seazone is a startup considered one of the four largest companies of holidays rental branch in Brazil :)
 
 :chart_with_upwards_trend: Currently, I am builiding my portfolio by creating machine learning models such as linear regression, extra trees and random forest.
  
@@ -19,10 +18,10 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
  
  
  📫 How to reach me:
  - barbarafaraha@gmail.com
  - https://www.linkedin.com/in/barbarafarahalmeida/
+ - +5532991567800
 
