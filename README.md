@@ -1,9 +1,12 @@
 # Data Scientist / Production Engineer
 
 👋  Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. 
-:necktie: I am currently working in Seazone as Data Analyst. Seazone is a startup considered one of the four largest companies of holidays rental branch in Brazil :)
 
-:chart_with_upwards_trend: Currently, I am builiding my portfolio by creating machine learning models such as linear regression, extra trees and random forest.
+:necktie: I am working in Seazone as Data Analyst. Seazone is a startup considered one of the four largest companies of holidays rental branch in Brazil :)
+
+
+
+:chart_with_upwards_trend: Here you can find data analysis projects and machine learning models such as linear regression, extra trees and random forest.
  
  
  
