@@ -2,7 +2,7 @@
 
 👋  Hi, I'm a production engineer that had to use data science occasionally in a previous work experience and I feel in love with this area. 
 
-:necktie: I am working in Seazone as Data Analyst. Seazone is a startup considered one of the four largest companies of holidays rental branch in Brazil :)
+:necktie: I am working in Seazone as Data Analyst. Seazone is a startup considered one of the four largest companies of vacation rental branch in Brazil :)
 
 
 
